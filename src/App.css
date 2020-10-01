@@ -1,0 +1,22 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+.input-text {
+  text-align: center;
+  padding:10px;
+}
+.col{
+  margin:1%;
+}
+@keyframes bounce { 
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-5px); }
+}
+.card {
+  animation: bounce 0.8s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}

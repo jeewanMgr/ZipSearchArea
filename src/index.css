@@ -1,0 +1,23 @@
+.my-edit ul {
+    padding-right:3%;
+    padding-bottom: 4%;
+    border: 3px solid black;
+    border-radius: 10px;
+   
+}
+.line{
+    padding-top:-200px;
+} 
+
+
+input[type=text] {
+    width:600;
+    padding: 9px 20px;
+    margin: 8px 0;
+    border: groove;
+    resize: both;
+  }
+ .textinput{
+     font-size: 30px;
+ }
+ 
